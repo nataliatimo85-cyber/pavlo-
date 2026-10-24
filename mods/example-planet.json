@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "body": {
+    "id": "obriy",
+    "name": "Обрій",
+    "radius": 240000,
+    "gravity": 3.2,
+    "atmosphere": 35000
+  }
+}
